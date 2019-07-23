@@ -1,7 +1,7 @@
 # Hello-World
 
 ## Authors
-- [Daniel Muchiri](https://github.com/daydroidmuchiri)
+- [Leo Mwamto](https://github.com/LeoAmby)
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
